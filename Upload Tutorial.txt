@@ -16,7 +16,7 @@ Existem duas formas para realizar esse processo. São eles:
 
 
 1- Usar o prompt de comando; (Avançado)
-2- Usar o Terminal - Git Bash do VSCode; (Iniciante)
+2- Usar o Terminal - Git Bash do VSCode. (Iniciante)
 
 
 TUTORIAL USANDO PROMPT DE COMANDO
