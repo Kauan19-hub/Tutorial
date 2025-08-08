@@ -286,7 +286,7 @@ Adiciona arquivos da pasta;
 
 
 - git status
-Verifica os arquivos adicionados;
+Verifica os arquivos adicionados; (OPCIONAL)
 
 
 - git commit -m “nome do repositório”
@@ -294,7 +294,7 @@ Define o nome do repositório;
 
 
 - git branch -M master (ou main)
-Define Master, ou Main;
+Define Master, ou Main; (OPCIONAL)
 
 
 - git remote add origin https://…. (link do repositório)
@@ -302,7 +302,7 @@ Adiciona os arquivos no repositório;
 
 
 - git push -u origin master (ou main)
-Puxa os arquivos para o repositório.
+Puxa os arquivos para o repositório. (DEPOIS DA 1° VEZ, USE APENAS "GIT PUSH")
 
 
 📬 CONTATO
