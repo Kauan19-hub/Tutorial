@@ -317,7 +317,7 @@ git push
 ###
 
 📧 E-mail: saleskauan308@gmail.com<br>
-💼 LinkedIn: [Kauan Vinícius (https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==)<br>
+💼 LinkedIn: [Kauan Vinícius] (https://www.instagram.com/kauanl01?igsh=MTA1czhyN3liM3l0NQ==)<br>
 💻 Instagram: @kauanl01<br>
 
 **<h3>👋 Muito obrigado e bons estudos!<h3/>**
