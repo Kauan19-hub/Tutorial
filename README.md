@@ -201,6 +201,12 @@ git push -u origin main
 ```
 
 ###
+```bash
+#Após a seleção, use apenas 'git push'
+git push
+```
+
+###
 
 7️⃣ **Confira se deu certo**
 
