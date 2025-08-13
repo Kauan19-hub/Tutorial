@@ -72,7 +72,7 @@ GitHub → Plataforma online para hospedar repositórios Git, colaborar em proje
 
 ###
 
-✅ Use mensagens de commit clarasm, curtas e objetivas;<br>
+✅ Use mensagens de commit claras, curtas e objetivas;<br>
 ✅ Mantenha a branch "Main" estável. Pode alterar para "Master", porém, a "Main" é mais recomendada;<br>
 ✅ Use branches para novas features ou correções;<br>
 ✅ Faça pull antes de começar novas alterações;<br>
