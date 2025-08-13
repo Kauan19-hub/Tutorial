@@ -18,7 +18,7 @@ Se você está começando ou quer reforçar o conhecimento, aqui vai encontrar p
 ###
 
 - O que é Git e GitHub? Possuem diferenças?
-- Instalação
+- Instalação;
 - Comandos básicos;
 - Trabalho básico;
 - Práticas;
