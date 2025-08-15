@@ -125,7 +125,7 @@ Existem duas formas para realizar esse processo:
 
 ✔️ Conta no GitHub → [Criar conta](https://github.com)  
 ✔️ Git instalado na máquina → [Baixar Git](https://git-scm.com)  
-✔️ Terminal (cmd, bash, PowerShell ou Git Bash)  
+✔️ Terminal (cmd, PowerShell ou Git Bash)  
 ✔️ Projeto criado localmente (pasta com arquivos)  
 
 ###
