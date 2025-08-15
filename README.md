@@ -114,8 +114,8 @@ Existem duas formas para realizar esse processo:
 
 ###
 
-1. **Usar o Prompt de Comando** *(Avançado)*
-2. **Usar o Terminal Git Bash no VSCode** *(Iniciante)*
+1. **Usar o Prompt de Comando do Windows:** *(Avançado)*
+2. **Usar o Terminal Git Bash no VSCode:** *(Iniciante)*
 
 ###
 
