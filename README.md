@@ -299,7 +299,7 @@ git remote add origin https://github.com/seu-usuario/nome-do-repo.git
 ```bash
 #Defina a branch
 git branch -M main
-git branch -M main
+git branch -M master
 ```
 
 ###
